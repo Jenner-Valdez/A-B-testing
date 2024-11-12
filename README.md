@@ -19,4 +19,4 @@
 - The cumulative revenue from both groups is nearly the same most of the time besides the first month.
 
 ## Technologies
-- This was written Jupyter Notebook, matplotlib, and Python.
+- This was written Jupyter Notebook, matplotlib, Power Bi, and Python.
